@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mallow-react-recruitment-task/static/css/main.44c67493.css",
+    "main.js": "/mallow-react-recruitment-task/static/js/main.72e0b81e.js",
+    "static/js/453.14105a7b.chunk.js": "/mallow-react-recruitment-task/static/js/453.14105a7b.chunk.js",
+    "index.html": "/mallow-react-recruitment-task/index.html",
+    "main.44c67493.css.map": "/mallow-react-recruitment-task/static/css/main.44c67493.css.map",
+    "main.72e0b81e.js.map": "/mallow-react-recruitment-task/static/js/main.72e0b81e.js.map",
+    "453.14105a7b.chunk.js.map": "/mallow-react-recruitment-task/static/js/453.14105a7b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44c67493.css",
+    "static/js/main.72e0b81e.js"
+  ]
+}
